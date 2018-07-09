@@ -1,10 +1,10 @@
 # config:
- MONGO_URL = 文件中存储mongodb的url
- MONGO_DB = mongodb的库名
- MONGO_TABLE = MongoDB的表名
- SERVICE_ARGS = phantomJS所需配置
-     --load-images=false 配置phantomJS不加载页面图片
-     --disk-cache=true 开启本地硬盘缓存
+ ## MONGO_URL = 文件中存储mongodb的url
+ ## MONGO_DB = mongodb的库名
+ ## MONGO_TABLE = MongoDB的表名
+ ## SERVICE_ARGS = phantomJS所需配置
+     ### --load-images=false 配置phantomJS不加载页面图片
+     ### --disk-cache=true 开启本地硬盘缓存
 
 # spider逻辑:
 ## def search()
