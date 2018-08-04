@@ -1,4 +1,4 @@
-MONGO_URL = 'mongodb://jasonlv:xiaojun0p-0p-0p-@123.206.22.148:27017'
+MONGO_URL = 'mongodb://username:password@192.168.1.1:27017'
 MONGO_DB = 'taobao'
 MONGO_TABLE = 'product'
 
